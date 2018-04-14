@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "734566423313",
+    "firebase_url": "https://kushalk-ba465.firebaseio.com",
+    "project_id": "kushalk-ba465",
+    "storage_bucket": "kushalk-ba465.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734566423313:android:58b0e82d0c0c5a81",
+        "android_client_info": {
+          "package_name": "com.example.kushalk.myproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734566423313-800a1aoh41db88339e4pgahocumcs0mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAcaqZQdWsIE6-otfGf7YgGc4FWflNLJ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
